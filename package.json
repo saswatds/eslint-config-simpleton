@@ -1,0 +1,32 @@
+{
+  "name": "eslint-config-simpleton",
+  "version": "0.0.0",
+  "description": "This package provides an set of simple opinionated eslint rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saswatds/eslint-config-simpleton.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "simpleton",
+    "eslintconfig",
+    "eslint-config"
+  ],
+  "author": "Saswat Das <saswatds@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saswatds/eslint-config-simpleton/issues"
+  },
+  "homepage": "https://github.com/saswatds/eslint-config-simpleton#readme",
+  "peerDependencies": {
+    "eslint": "^7.9.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.9.0"
+  }
+}
